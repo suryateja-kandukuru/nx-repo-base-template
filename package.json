@@ -62,7 +62,7 @@
     "@nrwl/cli": "15.4.2",
     "@nrwl/cypress": "15.4.2",
     "@nrwl/detox": "15.4.2",
-    "@nrwl/eslint-plugin-nx": "15.4.2",
+    "@nrwl/eslint-plugin-nx": "19.8.0",
     "@nrwl/jest": "15.4.2",
     "@nrwl/linter": "15.4.2",
     "@nrwl/nx-cloud": "15.0.2",
